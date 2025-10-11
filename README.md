@@ -6,7 +6,7 @@ Welcome to my resume repository! This space is a central and public place to acc
 
 ## 📥 Download My Resume
 
-- [📎 Download PDF Resume]Lezlee_Dass_Resume.pdf
+- [[📎 Download PDF Resume]Lezlee_Dass_Resume.pdf](https://github.com/lezlee-dass/lezlee-dass/blob/b38487b00b7c102b530b23399a4925a0907b2fec/Lezlee_Dass_Resume.pdf)
 
 ---
 
