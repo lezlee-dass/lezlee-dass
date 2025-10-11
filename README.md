@@ -10,17 +10,18 @@ Welcome to my resume repository! This space is a central and public place to acc
 
 ---
 
-## 👤 About Me
+## 👋 About Me
 
-Business Program Manager with 6+ years of experience driving cross-functional execution, portfolio management, and program governance at Dell Technologies and HSBC. I specialize in translating data into decisions that optimize cost, quality, and operational outcomes.
-🎯 What I Do:
+**Business Program Manager** with 6+ years of experience driving **cross-functional execution**, **portfolio management**, and **program governance** at **Dell Technologies** and **HSBC**.  
+I specialize in translating data into decisions that optimize **cost**, **quality**, and **operational outcomes**.
 
-Design operating models, RACI frameworks, and rhythm of business (MBR/QBR)
-Build OKR systems, KPI scorecards, and executive dashboards
-Drive process re-engineering and change management initiatives
-Develop data pipelines and analytics solutions for operational intelligence
+🎯 **What I Do**
+- Design **operating models**, **RACI frameworks**, and **rhythms of business (MBR/QBR)**
+- Build **OKR systems**, **KPI scorecards**, and **executive dashboards**
+- Drive **process re-engineering** and **change management** initiatives
+- Develop **data pipelines** and **analytics solutions** for operational intelligence
 
-🌱 Currently: Pursuing a Doctor of Business Administration (DBA) at Bangalore University
+🌱 **Currently:** Pursuing a **Doctor of Business Administration (DBA)** at *Bangalore University*
 
 ---
 
