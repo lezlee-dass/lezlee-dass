@@ -24,15 +24,17 @@ Develop data pipelines and analytics solutions for operational intelligence
 
 ---
 
-## 🔍 What I’m Looking For
+## 🔍 Current Focus
 
-I'm currently open to full-time opportunities in:
+I'm currently seeking full-time opportunities as a:
 
-- **Product Analyst**, **Operations Analyst**, or **Strategy Analyst** roles
-- Companies focused on **cloud**, **AI**, **consumer tech**, or **digital platforms**
-- **Preferred location**: Bangalore, India (Remote or Hybrid)
+- **Business Program Manager** or **Technical Program Manager** at product-led organizations  
+- **Strategy & Operations** roles leveraging program governance, analytics, and cross-functional execution  
+- Companies in **cloud infrastructure**, **AI/ML platforms**, **SaaS**, or **consumer tech**
 
-I'm especially interested in working at industry leaders such as **Meta**, **Apple**, **Amazon**, **Netflix**, **Google**, or **Microsoft** — where analytics meets innovation at scale.
+📍 **Location:** Bangalore, India *(Hybrid preferred — open to 3+ days in-office)*
+
+I'm particularly drawn to **FAANG+ companies** — *Meta, Apple, Amazon, Netflix, Google, Microsoft* — and **high-growth startups** where operational excellence and data-driven decision-making drive measurable business outcomes.
 
 ---
 
