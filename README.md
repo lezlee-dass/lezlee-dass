@@ -12,13 +12,15 @@ Welcome to my resume repository! This space is a central and public place to acc
 
 ## 👤 About Me
 
-I'm a Data Analyst with experience in business analysis, data visualization, and decision intelligence. I bring strong hands-on skills in:
+Business Program Manager with 6+ years of experience driving cross-functional execution, portfolio management, and program governance at Dell Technologies and HSBC. I specialize in translating data into decisions that optimize cost, quality, and operational outcomes.
+🎯 What I Do:
 
-- **SQL**, **Python**, **Excel**, **Power BI**
-- **Statistical analysis**, **data cleaning**, **forecasting**
-- **AI/ML foundations** and real-world analytics project execution
+Design operating models, RACI frameworks, and rhythm of business (MBR/QBR)
+Build OKR systems, KPI scorecards, and executive dashboards
+Drive process re-engineering and change management initiatives
+Develop data pipelines and analytics solutions for operational intelligence
 
-I specialize in translating complex data into actionable insights that support strategic decisions, product innovation, and operational efficiency.
+🌱 Currently: Pursuing a Doctor of Business Administration (DBA) at Bangalore University
 
 ---
 
